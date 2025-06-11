@@ -56,10 +56,10 @@ The dataset is a sample music store database that contains the following tables:
 
 ## 👤 Author
 
-**Your Name**  
-GitHub: [raghav-datas](https://github.com/raghav-datas)
-Email: raghavendra.connect@gmail.com
-LinkedIn: [raghavendraconnect](https://www.linkedin.com/in/raghavendraconnect/)
+**RAGHAVENDRA PRAJAPATI**  
+GitHub: raghav-datas(https://github.com/raghav-datas) <br>
+Email: raghavendra.connect@gmail.com <br>
+LinkedIn: raghavendraconnect(https://www.linkedin.com/in/raghavendraconnect/)
 
 ---
 
