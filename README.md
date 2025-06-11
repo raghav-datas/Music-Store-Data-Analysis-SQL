@@ -2,8 +2,7 @@
 ### This project analyzes a music store database using SQL to answer real-world business questions. It focuses on customer behavior, invoice trends, genre popularity, and artist performance. The queries are grouped into Easy, Moderate, and Advanced levels for better understanding.
 
 ## 📂 Dataset Used  
-
-<a href="https://github.com/raghav-datas/Music-Store-Sales-and-Customer-Behaviour-Analysis-SQL-/tree/main/Datasets">Dataset</a> <br>
+<a href="https://github.com/raghav-datas/Music-Store-Data-Analysis-SQL/tree/main/Datasets">Dataset</a> <br>
 
 The dataset is a sample music store database that contains the following tables:
 
