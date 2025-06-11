@@ -1,5 +1,5 @@
 # Music-Store-Sales-and-Customer-Behaviour-Analysis-SQL-
-## This SQL project explores a music store database to answer real-life business questions using analytical SQL queries. It covers topics like customer spending, popular genres, and invoice trends across countries.
+### This SQL project explores a music store database to answer real-life business questions using analytical SQL queries. It covers topics like customer spending, popular genres, and invoice trends across countries.
 
 Dataset
 
