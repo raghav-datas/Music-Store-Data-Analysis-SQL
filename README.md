@@ -10,10 +10,7 @@ This project analyzes a music store database using SQL to answer real-world busi
 
 ## 📂 Dataset Used  
 
-(https://github.com/raghav-datas/Music-Store-Sales-and-Customer-Behaviour-Analysis-SQL-/tree/main/Datasets)
-
-<a href="https://github.com/raghav-datas/Music-Store-Sales-and-Customer-Behaviour-Analysis-SQL-/tree/main/Datasets"></a>
-
+<a href="https://github.com/raghav-datas/Music-Store-Sales-and-Customer-Behaviour-Analysis-SQL-/tree/main/Datasets">Dataset</a> <br>
 
 The dataset is a sample music store database that contains the following tables:
 
