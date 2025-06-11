@@ -1,4 +1,4 @@
-# 🎵 Music Store Data Analysis – SQL
+# 🎵 Music Store Sales & Customer Behaviour Analysis - SQL
 ### This project analyzes a music store database using SQL to answer real-world business questions. It focuses on customer behavior, invoice trends, genre popularity, and artist performance. The queries are grouped into Easy, Moderate, and Advanced levels for better understanding.
 
 ## 📂 Dataset Used  
